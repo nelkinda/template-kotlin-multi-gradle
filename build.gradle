@@ -13,7 +13,7 @@ buildscript {
         classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.4.30'
         classpath 'org.jetbrains.kotlin:kotlin-noarg:1.4.30'
         classpath 'io.gitlab.arturbosch.detekt:detekt-gradle-plugin:1.15.0'
-        classpath 'org.jlleitschuh.gradle:ktlint-gradle:9.4.1'
+        classpath 'org.jlleitschuh.gradle:ktlint-gradle:10.0.0'
     }
 }
 
