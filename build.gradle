@@ -8,7 +8,7 @@ buildscript {
     dependencies {
         classpath 'name.remal:gradle-plugins:1.2.2'
         classpath 'org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:3.1.1'
-        classpath 'info.solidsoft.gradle.pitest:gradle-pitest-plugin:1.5.2'
+        classpath 'info.solidsoft.gradle.pitest:gradle-pitest-plugin:1.6.0'
         classpath 'org.jetbrains.kotlin:kotlin-allopen:1.4.30'
         classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.4.30'
         classpath 'org.jetbrains.kotlin:kotlin-noarg:1.4.30'
