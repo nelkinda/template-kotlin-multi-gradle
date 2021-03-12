@@ -34,7 +34,7 @@ subprojects {
     dependencyManagement {
         dependencies {
             dependency 'com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0'
-            dependencySet(group: 'io.cucumber', version: '6.10.0') {
+            dependencySet(group: 'io.cucumber', version: '6.10.1') {
                 entry 'cucumber-java'
                 entry 'cucumber-junit'
                 entry 'cucumber-junit-platform-engine'
@@ -56,7 +56,7 @@ subprojects {
             }
             dependency 'org.mockito:mockito-core:3.8.0'
             dependency 'org.pitest:pitest-junit5-plugin:0.12'
-            dependency 'org.pitest:pitest-command-line:1.6.3'
+            dependency 'org.pitest:pitest-command-line:1.6.4'
         }
     }
 }
