@@ -44,7 +44,7 @@ subprojects {
                 entry 'pmd-core'
                 entry 'pmd-java'
             }
-            dependencySet(group: 'org.junit.jupiter', version: '5.7.1') {
+            dependencySet(group: 'org.junit.jupiter', version: '5.7.2') {
                 entry 'junit-jupiter'
                 entry 'junit-jupiter-api'
                 entry 'junit-jupiter-engine'
@@ -54,7 +54,7 @@ subprojects {
                 entry 'junit-platform-commons'
                 entry 'junit-platform-engine'
             }
-            dependency 'org.mockito:mockito-core:3.9.0'
+            dependency 'org.mockito:mockito-core:3.11.2'
             dependency 'org.pitest:pitest-junit5-plugin:0.14'
             dependency 'org.pitest:pitest-command-line:1.6.5'
         }
