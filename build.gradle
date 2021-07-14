@@ -11,7 +11,7 @@ buildscript {
         classpath 'info.solidsoft.gradle.pitest:gradle-pitest-plugin:1.6.0'
         classpath 'org.jetbrains.kotlin:kotlin-allopen:1.4.32'
         classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.4.32'
-        classpath 'org.jetbrains.kotlin:kotlin-noarg:1.4.32'
+        classpath 'org.jetbrains.kotlin:kotlin-noarg:1.5.21'
         classpath 'io.gitlab.arturbosch.detekt:detekt-gradle-plugin:1.16.0'
         classpath 'org.jlleitschuh.gradle:ktlint-gradle:10.0.0'
     }
