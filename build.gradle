@@ -34,7 +34,7 @@ subprojects {
     dependencyManagement {
         dependencies {
             dependency 'com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0'
-            dependencySet(group: 'io.cucumber', version: '6.10.2') {
+            dependencySet(group: 'io.cucumber', version: '6.10.4') {
                 entry 'cucumber-java'
                 entry 'cucumber-junit'
                 entry 'cucumber-junit-platform-engine'
