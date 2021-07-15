@@ -142,6 +142,6 @@ configure(subprojects) {
 }
 
 wrapper {
-    gradleVersion '6.8.2'
+    gradleVersion '7.1.1'
     distributionType = Wrapper.DistributionType.ALL
 }
